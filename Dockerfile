@@ -1,3 +1,3 @@
 from scratch
 add . .
-run make
+run echo scratch
